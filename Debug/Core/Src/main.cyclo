@@ -1,0 +1,8 @@
+../Core/Src/main.c:77:5:main	1
+../Core/Src/main.c:132:6:SystemClock_Config	3
+../Core/Src/main.c:176:6:ToggleLed	1
+../Core/Src/main.c:183:6:TurnOnLed	1
+../Core/Src/main.c:189:6:TurnOffLed	1
+../Core/Src/main.c:195:6:Release	1
+../Core/Src/main.c:200:6:UartLog	1
+../Core/Src/main.c:211:6:Error_Handler	1

@@ -1,0 +1,8 @@
+../Core/Src/main.c:77:5:main	16	static
+../Core/Src/main.c:132:6:SystemClock_Config	88	static
+../Core/Src/main.c:176:6:ToggleLed	8	static
+../Core/Src/main.c:183:6:TurnOnLed	8	static
+../Core/Src/main.c:189:6:TurnOffLed	8	static
+../Core/Src/main.c:195:6:Release	8	static
+../Core/Src/main.c:200:6:UartLog	16	static
+../Core/Src/main.c:211:6:Error_Handler	4	static,ignoring_inline_asm
